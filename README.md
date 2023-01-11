@@ -13,3 +13,5 @@ requirements section of this task based on the business requirements. You will u
 to develop your application. "
 
 This is an Inventory Management System that allows the user to update, create, edit, and delete in-house, outsourced, and packaged products for ease of record keeping. It uses JavaFX and SceneBuilder for the GUI and Java language for the "backend" code.
+
+It also has been documented with JavaDocs (folder in the Repo).
